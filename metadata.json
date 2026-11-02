@@ -1,0 +1,6 @@
+{
+  "name": "Student Management REST API - USN 1NH23CS106",
+  "description": "Production-grade Student Management REST API built with Node.js, Express, MongoDB, Mongoose, JWT authentication, role-based authorization, Swagger docs, and Postman testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
